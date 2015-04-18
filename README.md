@@ -1,4 +1,6 @@
 # stackhub
-Space to build the idea
 
-Simon, once you get into GitHub.  Lets work in the other file
+Space to build an idea of the platform, we need to build the idea.
+
+
+
